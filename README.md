@@ -17,8 +17,7 @@ I’m passionate about technology, coding, and continuous learning. As a compute
 
 ## 🛠️ Skills & Interests
 
-- **Programming Languages**: Python, C, Java, JavaScript,
-- **Web Development**: React, Node.js, HTML/CSS
+- **Programming Languages**: Python, C, JavaScript,
 - **Data & Automation**: SQL, Pandas, GitHub Actions
 - **Other Interests**: Open source, IOT, AI/ML
 
