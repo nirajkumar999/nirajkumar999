@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Niraj Kumar!<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Python+Developer;AI+%26+Deep+Learning+Learner;Open+Source+Contributor" />
+# 👋 Hi, I'm Niraj Kumar!<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Data+Analysis;AI+%26+Deep+Learning+Learner;Open+Source+Contributor" />
 
 Welcome to my GitHub profile!
 
@@ -56,6 +56,6 @@ Check out my repositories for some of my favorite and recent projects!
 - [Portfolio](https://nkprotfolio-999.netlify.app/)
 - Email: hadaking26@gmail.com
 
----
+
 
 > “Always learning, always growing.”
