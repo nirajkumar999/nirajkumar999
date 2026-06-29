@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Niraj Kumar!
+# 👋 Hi, I'm Niraj Kumar!<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Python+Developer;AI+%26+Deep+Learning+Learner;Open+Source+Contributor" />
 
 Welcome to my GitHub profile!
+
+</div>
 
 - 🎓 **Computer Science Student at BHU (Banaras Hindu University)**
 - 📍 Based in Varanasi, India
@@ -17,7 +19,10 @@ I’m passionate about technology, coding, and continuous learning. As a compute
 
 ## 🛠️ Skills & Interests
 
-- **Programming Languages**: Python, C, JavaScript,
+- **Programming Languages**: <p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,sql"/>
+</p>
+
 - **Data & Automation**: SQL, Pandas, GitHub Actions
 - **Other Interests**: Open source, IOT, AI/ML
 
