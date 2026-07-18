@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 - 🎓 **Computer Science Student at BHU (Banaras Hindu University)**
 - 📍 Based in Varanasi, India
 - 🌐 [My Portfolio](https://bejewelled-stroopwafel-e75a71.netlify.app/)
-- ✉️ Contact: hadaking26@gmail.com
+- ✉️ [Contact](hadaking26@gmail.com)
 
 ---
 
@@ -52,9 +52,9 @@ Check out my repositories for some of my favorite and recent projects!
 ---
 
 ## 📫 Connect with Me
-
+- [Linkedln](https://www.linkedin.com/in/niraj-kumar-811b93360/)
 - [Portfolio](https://nkprotfolio-999.netlify.app/)
-- Email: hadaking26@gmail.com
+- [Email](hadaking26@gmail.com)
 
 
 
